@@ -78,7 +78,7 @@ h1 {
 
 .form button {
   padding: 8px 15px;
-  background-color: #28a745;
+  background-color: #000000;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -86,7 +86,7 @@ h1 {
 }
 
 .form button:hover {
-  background-color: #218838;
+  background-color: #000000;
 }
 
 
